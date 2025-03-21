@@ -165,8 +165,8 @@ tile_map_data = PackedByteArray("AAABAAIAAgADAAAAAAACAAIAAgAGAAEAAAADAAIAAgAEAAA
 tile_set = SubResource("TileSet_nswr5")
 
 [node name="Area2D2" parent="." instance=ExtResource("8_78x3y")]
-position = Vector2(1395, 667)
-scale = Vector2(0.799003, 0.683505)
+position = Vector2(109, 719)
+scale = Vector2(7, 5.992)
 
 [node name="spawner" type="Node2D" parent="."]
 position = Vector2(873, -627)
